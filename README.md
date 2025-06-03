@@ -9,7 +9,7 @@ Uma ferramenta de linha de comando para gerar rapidamente pastas com `docker-com
 - Java 17+ instalado
 
 #### Passos
-1. Baixe o `.jar` na [página de releases](https://github.com/DeVictor2002/docker-db-generator/releases/tag/v1.0.0)
+1. Baixe o `.jar` na [página de releases](https://github.com/DeVictor2002/docker-db-generator/releases/tag/v1.0.1)
 2. Crie um alias global no seu terminal:
 
 ##### Linux/macOS (bash/zsh)
@@ -31,8 +31,8 @@ docker-db postgres meu_banco
 ---
 ## 💡 Suporte atual
 - ✅ PostgreSQL
-- 🚧 MySQL (em breve)
-- 🚧 MongoDB (em breve)
+- ✅ MySQL
+- ✅ MongoDB
 ---
 ## 📝 Exemplo de arquivos gerados
 ### `.env`
