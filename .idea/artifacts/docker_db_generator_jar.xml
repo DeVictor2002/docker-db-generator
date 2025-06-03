@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="docker-db-generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/docker_db_generator_jar</output-path>
+    <root id="archive" name="docker-db-generator.jar">
+      <element id="module-output" name="docker-db-generator" />
+    </root>
+  </artifact>
+</component>
